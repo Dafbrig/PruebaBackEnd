@@ -1,0 +1,32 @@
+Ejercicio 6: Nomenclatura Crea un documento de políticas de 
+nomenclatura para el equipo de desarrollo de una compañía, la política debe incluir nomenclatura de:
+bases de datos, variables, funciones, clases, git, etc.
+
+Política de Nomenclatura - Equipo de Desarrollo
+
+1. Bases de datos:
+   - Nombres de bases de datos: Utilizar nombres descriptivos y significativos que reflejen el propósito y la función de la base de datos.
+   - Nombres de tablas: Utilizar nombres en singular, evitando plurales o nombres ambiguos. Utilizar nombres descriptivos y concisos que reflejen el contenido de la tabla.
+   - Nombres de columnas: Utilizar nombres descriptivos que indiquen claramente el tipo de datos y la información que almacena la columna.
+
+2. Variables:
+   - Nombres de variables: Utilizar nombres descriptivos que reflejen el propósito y la función de la variable. Utilizar camelCase para nombres de variables compuestas por múltiples palabras, comenzando con minúscula.
+   - Evitar abreviaturas confusas o demasiado cortas. Priorizar la claridad y la legibilidad del código.
+
+3. Funciones:
+   - Nombres de funciones: Utilizar nombres descriptivos que indiquen claramente la acción o el propósito de la función. Utilizar camelCase para nombres de funciones compuestas por múltiples palabras, comenzando con minúscula.
+
+4. Clases:
+   - Nombres de clases: Utilizar nombres descriptivos y sustantivos que reflejen claramente la responsabilidad y el propósito de la clase. Utilizar PascalCase para nombres de clases, comenzando con mayúscula.
+
+5. Git:
+   - Nombres de ramas (branches): Utilizar nombres descriptivos y significativos para las ramas. Utilizar kebab-case para nombres de ramas compuestas por múltiples palabras, todo en minúscula.
+   - Commits: Escribir mensajes de commit claros y concisos que describan los cambios realizados. Utilizar un formato consistente y utilizar verbos en imperativo para indicar la acción realizada.
+
+6. General:
+   - Evitar nombres genéricos o ambiguos que no transmitan claramente su función o propósito.
+   - Utilizar nombres en inglés para garantizar la consistencia y facilitar la colaboración con otros equipos o desarrolladores.
+   - Mantener una convención de nomenclatura coherente en todo el código y la documentación del proyecto.
+   - Comentar el código de manera adecuada para explicar la funcionalidad y la intención del mismo.
+
+Esta política de nomenclatura tiene como objetivo mejorar la legibilidad, la mantenibilidad y la colaboración dentro del equipo de desarrollo. Al seguir estas pautas, esperamos lograr un código más claro, comprensible y consistente en todos los proyectos de la compañía.
